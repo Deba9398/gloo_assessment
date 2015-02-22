@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Gloo Assessment</string>
+
+    <string name="field_required">* denotes required fields</string>
+
+    <!-- Sign Up -->
+    <string name="sign_up_header">Sign Up</string>
+    <string name="sign_up_name_label">Name *</string>
+    <string name="sign_up_first_name">First Name</string>
+    <string name="sign_up_last_name">Last Name</string>
+    <string name="sign_up_username_label">Username *</string>
+    <string name="sign_up_username">Username</string>
+    <string name="sign_up_password_label">Password *</string>
+    <string name="sign_up_password">Password</string>
+    <string name="sign_up_password_confirmation">Password Confirmation</string>
+    <string name="sign_up_button">Sign Up</string>
+
+    <!-- Login -->
+    <string name="login_header">Login</string>
+    <string name="login_username_label">Login</string>
+    <string name="login_password_label">Password</string>
+    <string name="login_button">Login</string>
+
+    <!-- First Activity -->
+    <string name="first_header">First Activity</string>
+    <string name="first_field1">Field 1 *</string>
+    <string name="first_field2">Field 2 *</string>
+    <string name="first_field3">Field 3 *</string>
+    <string name="first_proceed_button">Proceed</string>
+
+    <!-- Second Activity -->
+    <string name="second_header">Second Activity</string>
+    <string name="second_subtitle">Tap a section to edit its contents</string>
+    <string name="second_field1">Field 1</string>
+    <string name="second_field2">Field 2</string>
+    <string name="second_field3">Field 3</string>
+    <string name="second_save_button">Save</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
